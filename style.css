@@ -25,7 +25,7 @@ body
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     font-size: 1rem;
-    width: 250px;
+    width: 270px;
     overflow: hidden;
     padding: 0;
     position: relative;
@@ -39,6 +39,7 @@ body
     border: 10px solid var(--colorBlack);
     color: var(--colorWhite);
     padding: 0.5em 1em;
+    letter-spacing: 2px;
     transition: all 0.5s linear;
 }
 
